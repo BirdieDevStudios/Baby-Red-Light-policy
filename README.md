@@ -56,9 +56,7 @@ Your rights
 
 Depending on your location, you may request access, correction, portability, or deletion of your data.
 
-Request account & data deletion
 
-Use this link to request deletion of your account and associated data:
 👉 Request Account & Data Deletion
 <h2>🗑️ Data Deletion Request</h2>
 <p>If you would like to request deletion of your account and associated data, please contact us using the link below:</p>
